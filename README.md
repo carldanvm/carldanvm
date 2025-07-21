@@ -39,11 +39,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=carldanvm&theme=highcontrast&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=carldanvm&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
-
-</div>
-
