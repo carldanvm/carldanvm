@@ -1,5 +1,7 @@
 # Hello! 👋 I'm Carlos Vieira
 
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -30,13 +32,18 @@
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=carldanvm&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![carldanvm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=carldanvm&theme=highcontrast&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=carldanvm&theme=highcontrast&hide_border=true)
 
-![carldanvm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carldanvm&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=carldanvm&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
